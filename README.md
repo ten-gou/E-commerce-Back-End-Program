@@ -26,6 +26,7 @@ Made by Libin Wang, this program is considered to be under Public Domain License
 A Sequelize, SQL, and JS based database for Products, Categories, and Tags
 
 ### 1-1. Picture or Video Examples
+[video](https://drive.google.com/file/d/1FXDT44ZeypKRKHz_e5E1ZPUsS6oYquw1/view?usp=sharing)
 
 ### 1-2. Known Bugs
 N/A
